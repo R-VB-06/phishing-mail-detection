@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Model and vectorizer artifacts
+rf_phishing_model.pkl
+rf_vectorizer.pkl
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/

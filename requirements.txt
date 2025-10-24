@@ -1,0 +1,6 @@
+joblib
+pandas
+langdetect
+deep-translator
+scikit-learn
+sentence-transformers
