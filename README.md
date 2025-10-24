@@ -1,5 +1,4 @@
 
-
 Phising Mail Detection: It uses natural language processing (NLP) techniques to identify suspicious content and translate non-English messages into English for consistent analysis.
 
 Technologies Used
@@ -32,4 +31,4 @@ Steps Execution Flow
 9. Displays result: `-----Phishing-----` or `----Safe----`
 
 
- 
+

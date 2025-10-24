@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Virtual environment
+# Virtual environments
 venv/
 env/
 *.egg-info/
@@ -13,8 +13,7 @@ env/
 *.tmp
 
 # Model and vectorizer artifacts
-rf_phishing_model.pkl
-rf_vectorizer.pkl
+*.pkl
 
 # OS and editor files
 .DS_Store
@@ -26,3 +25,6 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Environment variables
+.env
